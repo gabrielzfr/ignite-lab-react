@@ -22,7 +22,7 @@ export function Subscribe() {
             }
         })
 
-        navigate('/event')
+        navigate('/event/lesson/aula-01')
     }
     return (
         <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center ">
